@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "title": "All",
+        "thumbnail": "https://www.edesk.com/wp-content/uploads/2021/03/find-trending-products-sell-ecommerce.png",
+        "products": []
+    },
+    {
+        "id": 1,
+        "title": "Smartphones",
+        "thumbnail": "https://ndetel.com/data/product/iphone%20tay/iphone%20xs.png",
+        "products": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Laptops",
+        "thumbnail": "https://cdn.nguyenkimmall.com/images/detailed/831/kinh-nghiem-chon-mua-laptop-cho-sinh-vien-thumbnail.jpg",
+        "products": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Fragrances",
+        "thumbnail": "https://www.loccitane.com/dw/image/v2/BDQL_PRD/on/demandware.static/-/Library-Sites-OCC_SharedLibrary/default/dwa2626b7c/images/CLP/women_fragrances_module.jpg",
+        "products": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Skincare",
+        "thumbnail": "https://file.hstatic.net/200000376267/article/natural_skincare_81abe4930bed4ff58458902bb56861fc.jpg",
+        "products": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Groceries",
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/how-to-save-money-on-groceries-1673472736.png",
+        "products": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Home-decoration",
+        "thumbnail": "https://cdn-cms.pgimgs.com/static/2019/07/brighten-home-decor-mainimage.jpg",
+        "products": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Furniture",
+        "thumbnail": "https://urbanquarter.com/wp-content/uploads/2023/01/dining-26.png",
+        "products": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Tops",
+        "thumbnail": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e5c10505-29ee-4b75-a312-b8aed33263cc/sportswear-essential-womens-cropped-logo-t-shirt-891LTF.png",
+        "products": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    }
+]

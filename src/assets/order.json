@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1112233,
+        "userId": 1,
+        "createdAt": "08/08/2023",
+        "orders": [
+            {
+                "id": 1,
+                "quantity": 1
+            },
+            {
+                "id": 7,
+                "quantity": 2
+            }
+        ],
+        "price": 2345
+    },
+    {
+        "id": 1234556,
+        "userId": 1,
+        "createdAt": "10/08/2023",
+        "orders": [
+            {
+                "id": 22,
+                "quantity": 3
+            },
+            {
+                "id": 9,
+                "quantity": 1
+            }
+        ],
+        "price": 2345
+    },
+    {
+        "id": 1111111,
+        "userId": 2,
+        "createdAt": "10/08/2023",
+        "orders": [
+            {
+                "id": 1,
+                "quantity": 1
+            },
+            {
+                "id": 7,
+                "quantity": 1
+            },
+            {
+                "id": 23,
+                "quantity": 1
+            },
+            {
+                "id": 19,
+                "quantity": 2
+            }
+        ],
+        "price": 4456
+    }
+]

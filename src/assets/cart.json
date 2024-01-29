@@ -1,0 +1,47 @@
+[
+    {
+        "userId": 1,
+        "products": [
+            {
+                "id": 1,
+                "quantity": 2,
+                "selected": false
+            },
+            {
+                "id": 7,
+                "quantity": 2,
+                "selected": false
+            },
+            {
+                "id": 8,
+                "quantity": 1,
+                "selected": true
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "products": [
+            {
+                "id": 1,
+                "quantity": 2,
+                "selected": false
+            },
+            {
+                "id": 7,
+                "quantity": 2,
+                "selected": true
+            },
+            {
+                "id": 23,
+                "quantity": 2,
+                "selected": false
+            },
+            {
+                "id": 19,
+                "quantity": 4,
+                "selected": true
+            }
+        ]
+    }
+]
